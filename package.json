@@ -50,7 +50,7 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@commitlint/cli": "^8.3.5",
+    "@commitlint/cli": "^13.1.0",
     "@commitlint/config-conventional": "^8.3.4",
     "cz-conventional-changelog": "^3.2.0",
     "husky": "^4.2.5",
